@@ -1,0 +1,24 @@
+section {
+  background-color: plum;
+}
+
+h1 {
+  font-size: x-large;
+  color: crimson;
+}
+
+h2 {
+  font-size: larger;
+  color: purple;
+}
+ol {
+  color: forestgreen;
+  font-size: medium;
+}
+
+img {
+  width: 300px;
+  margin: auto;
+  padding: auto;
+  border: 10px solid gold;
+}
